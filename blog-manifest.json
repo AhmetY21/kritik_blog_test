@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "what-is-sanction",
+    "title": "What Is a Sanction?",
+    "excerpt": "A practical introduction to sanctions, how they are used, and why compliance teams screen against them.",
+    "author": "Kritik Editorial Team",
+    "category": "AML Basics",
+    "publishedAt": "2026-04-14",
+    "updatedAt": "2026-04-16",
+    "tags": [
+      "sanctions",
+      "aml",
+      "compliance"
+    ],
+    "readingTimeMinutes": 2,
+    "featured": true
+  },
+  {
+    "slug": "pep-vs-sanctions-screening",
+    "title": "PEP vs Sanctions Screening",
+    "excerpt": "PEP exposure and sanctions exposure are different risk signals. This guide explains how teams should treat each one.",
+    "author": "Kritik Editorial Team",
+    "category": "Screening Operations",
+    "publishedAt": "2026-04-13",
+    "updatedAt": "2026-04-16",
+    "tags": [
+      "pep",
+      "sanctions",
+      "risk-based-approach"
+    ],
+    "readingTimeMinutes": 2,
+    "featured": true
+  },
+  {
+    "slug": "adverse-media-screening-basics",
+    "title": "Adverse Media Screening Basics",
+    "excerpt": "Adverse media screening helps teams identify reputational and financial crime signals before they become formal list hits.",
+    "author": "Kritik Editorial Team",
+    "category": "Adverse Media",
+    "publishedAt": "2026-04-12",
+    "updatedAt": "2026-04-16",
+    "tags": [
+      "adverse-media",
+      "aml",
+      "due-diligence"
+    ],
+    "readingTimeMinutes": 2,
+    "featured": false
+  }
+]
